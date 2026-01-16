@@ -102,10 +102,3 @@ This project is suitable for:
 - Mobile application support
 - Gamification features to enhance learner engagement
 
-## Contributing
-
-Contributions are welcome. Please open an issue or submit a pull request explaining your changes.
-
-## License
-
-Specify your license here (e.g., MIT) or remove this section if not applicable.
